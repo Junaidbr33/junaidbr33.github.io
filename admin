@@ -1,0 +1,17 @@
+
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>MD Junaid Alam Admin</title>
+<meta http-equiv="refresh" content="0;url=../admin.html">
+<script>
+window.location.replace("../admin.html");
+</script>
+</head>
+<body>
+<p>Admin Panel खोला जा रहा है...</p>
+<a href="../admin.html">यहाँ क्लिक करें</a>
+</body>
+</html>
